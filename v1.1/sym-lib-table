@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name line_follower-cache)(type Legacy)(uri ${KIPRJMOD}/lib_sch/line_follower-cache.lib)(options "")(descr ""))
+)
