@@ -1,6 +1,6 @@
 EESchema Schematic File Version 4
 LIBS:line_follower-cache
-EELAYER 26 0
+EELAYER 29 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
@@ -81,17 +81,17 @@ RM_M1
 Text GLabel 9750 1900 0    60   Input ~ 0
 RM_M2
 Text GLabel 6100 1700 0    60   Input ~ 0
-RM_M1
-Text GLabel 6100 1800 0    60   Input ~ 0
 RM_M2
+Text GLabel 6100 1800 0    60   Input ~ 0
+RM_M1
 Text GLabel 6100 1600 0    60   Input ~ 0
-LM_M2
+LM_M1
 Text GLabel 6100 1500 0    60   Input ~ 0
-LM_M1
-Text GLabel 9850 3400 0    60   Input ~ 0
-LM_M1
-Text GLabel 9850 3500 0    60   Input ~ 0
 LM_M2
+Text GLabel 9850 3400 0    60   Input ~ 0
+LM_M2
+Text GLabel 9850 3500 0    60   Input ~ 0
+LM_M1
 Text GLabel 9850 3200 0    60   Input ~ 0
 LM_OUT_A
 Text GLabel 9850 3100 0    60   Input ~ 0
@@ -1187,12 +1187,12 @@ Wire Wire Line
 Wire Wire Line
 	4050 1900 3800 1900
 $Comp
-L line_follower-cache:MP2307DN U?
+L line_follower-cache:MP2307DN U1
 U 1 1 5C5131B2
 P 2600 1500
-F 0 "U?" H 2400 1350 50  0000 C CNN
+F 0 "U1" H 2400 1350 50  0000 C CNN
 F 1 "MP2307DN" H 2600 1774 50  0000 C CNN
-F 2 "" H 2600 1500 50  0001 C CNN
+F 2 "line_follower:MP2307DN" H 2600 1500 50  0001 C CNN
 F 3 "" H 2600 1500 50  0001 C CNN
 	1    2600 1500
 	1    0    0    -1  

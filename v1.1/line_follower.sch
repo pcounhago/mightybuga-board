@@ -1,6 +1,6 @@
 EESchema Schematic File Version 4
 LIBS:line_follower-cache
-EELAYER 26 0
+EELAYER 29 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
@@ -77,21 +77,21 @@ RM_OUT_A
 Text GLabel 9750 1600 0    60   Input ~ 0
 RM_OUT_B
 Text GLabel 9750 1800 0    60   Input ~ 0
-RM_M1
+RM_M2
 Text GLabel 9750 1900 0    60   Input ~ 0
-RM_M2
-Text GLabel 6100 1700 0    60   Input ~ 0
 RM_M1
-Text GLabel 6100 1800 0    60   Input ~ 0
+Text GLabel 6100 1700 0    60   Input ~ 0
 RM_M2
+Text GLabel 6100 1800 0    60   Input ~ 0
+RM_M1
 Text GLabel 6100 1600 0    60   Input ~ 0
-LM_M2
+LM_M1
 Text GLabel 6100 1500 0    60   Input ~ 0
-LM_M1
-Text GLabel 9850 3400 0    60   Input ~ 0
-LM_M1
-Text GLabel 9850 3500 0    60   Input ~ 0
 LM_M2
+Text GLabel 9850 3400 0    60   Input ~ 0
+LM_M2
+Text GLabel 9850 3500 0    60   Input ~ 0
+LM_M1
 Text GLabel 9850 3200 0    60   Input ~ 0
 LM_OUT_A
 Text GLabel 9850 3100 0    60   Input ~ 0

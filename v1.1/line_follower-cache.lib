@@ -1,11 +1,11 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
-# line_follower-cache:+3V3
+# line_follower-cache_+3V3
 #
-DEF line_follower-cache:+3V3 #PWR 0 0 Y Y 1 F P
+DEF line_follower-cache_+3V3 #PWR 0 0 Y Y 1 F P
 F0 "#PWR" 0 -150 50 H I C CNN
-F1 "line_follower-cache:+3V3" 0 140 50 H V C CNN
+F1 "line_follower-cache_+3V3" 0 140 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -16,11 +16,11 @@ X +3V3 1 0 0 0 U 50 50 1 1 W N
 ENDDRAW
 ENDDEF
 #
-# line_follower-cache:+9V
+# line_follower-cache_+9V
 #
-DEF line_follower-cache:+9V #PWR 0 0 Y Y 1 F P
+DEF line_follower-cache_+9V #PWR 0 0 Y Y 1 F P
 F0 "#PWR" 0 -150 50 H I C CNN
-F1 "line_follower-cache:+9V" 0 140 50 H V C CNN
+F1 "line_follower-cache_+9V" 0 140 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -31,11 +31,11 @@ X +9V 1 0 0 0 U 50 50 1 1 W N
 ENDDRAW
 ENDDEF
 #
-# line_follower-cache:+BATT
+# line_follower-cache_+BATT
 #
-DEF line_follower-cache:+BATT #PWR 0 0 Y Y 1 F P
+DEF line_follower-cache_+BATT #PWR 0 0 Y Y 1 F P
 F0 "#PWR" 0 -150 50 H I C CNN
-F1 "line_follower-cache:+BATT" 0 140 50 H V C CNN
+F1 "line_follower-cache_+BATT" 0 140 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -46,11 +46,11 @@ X +BATT 1 0 0 0 U 50 50 1 1 W N
 ENDDRAW
 ENDDEF
 #
-# line_follower-cache:CAPAPOL
+# line_follower-cache_CAPAPOL
 #
-DEF line_follower-cache:CAPAPOL C 0 10 N N 1 F N
+DEF line_follower-cache_CAPAPOL C 0 10 N N 1 F N
 F0 "C" 50 100 40 H V L CNN
-F1 "line_follower-cache:CAPAPOL" 50 -100 40 H V L CNN
+F1 "line_follower-cache_CAPAPOL" 50 -100 40 H V L CNN
 F2 "" 100 -150 30 H V C CNN
 F3 "" 0 0 300 H V C CNN
 ALIAS CAPAPOL
@@ -66,11 +66,11 @@ X ~ 2 0 -200 150 U 40 40 1 1 P
 ENDDRAW
 ENDDEF
 #
-# line_follower-cache:CONN_11
+# line_follower-cache_CONN_11
 #
-DEF line_follower-cache:CONN_11 P 0 40 Y N 1 F N
+DEF line_follower-cache_CONN_11 P 0 40 Y N 1 F N
 F0 "P" -50 0 60 V V C CNN
-F1 "line_follower-cache:CONN_11" 50 0 60 V V C CNN
+F1 "line_follower-cache_CONN_11" 50 0 60 V V C CNN
 F2 "" 0 0 60 H V C CNN
 F3 "" 0 0 60 H V C CNN
 DRAW
@@ -89,11 +89,11 @@ X P9 9 -350 -300 250 R 50 50 1 1 P I
 ENDDRAW
 ENDDEF
 #
-# line_follower-cache:CONN_2
+# line_follower-cache_CONN_2
 #
-DEF line_follower-cache:CONN_2 P 0 40 Y N 1 F N
+DEF line_follower-cache_CONN_2 P 0 40 Y N 1 F N
 F0 "P" -50 0 40 V V C CNN
-F1 "line_follower-cache:CONN_2" 50 0 40 V V C CNN
+F1 "line_follower-cache_CONN_2" 50 0 40 V V C CNN
 F2 "" 0 0 60 H V C CNN
 F3 "" 0 0 60 H V C CNN
 DRAW
@@ -103,11 +103,11 @@ X PM 2 -350 -100 250 R 60 60 1 1 P I
 ENDDRAW
 ENDDEF
 #
-# line_follower-cache:CONN_3
+# line_follower-cache_CONN_3
 #
-DEF line_follower-cache:CONN_3 K 0 40 Y N 1 F N
+DEF line_follower-cache_CONN_3 K 0 40 Y N 1 F N
 F0 "K" -50 0 50 V V C CNN
-F1 "line_follower-cache:CONN_3" 50 0 40 V V C CNN
+F1 "line_follower-cache_CONN_3" 50 0 40 V V C CNN
 F2 "" 0 0 60 H V C CNN
 F3 "" 0 0 60 H V C CNN
 DRAW
@@ -118,11 +118,11 @@ X P3 3 -350 -100 250 R 60 60 1 1 P I
 ENDDRAW
 ENDDEF
 #
-# line_follower-cache:CONN_6
+# line_follower-cache_CONN_6
 #
-DEF line_follower-cache:CONN_6 P 0 30 Y N 1 F N
+DEF line_follower-cache_CONN_6 P 0 30 Y N 1 F N
 F0 "P" -50 0 60 V V C CNN
-F1 "line_follower-cache:CONN_6" 50 0 60 V V C CNN
+F1 "line_follower-cache_CONN_6" 50 0 60 V V C CNN
 F2 "" 0 0 60 H V C CNN
 F3 "" 0 0 60 H V C CNN
 DRAW
@@ -136,11 +136,11 @@ X 6 6 -350 -250 250 R 60 60 1 1 P I
 ENDDRAW
 ENDDEF
 #
-# line_follower-cache:CONN_7
+# line_follower-cache_CONN_7
 #
-DEF line_follower-cache:CONN_7 P 0 40 Y N 1 F N
+DEF line_follower-cache_CONN_7 P 0 40 Y N 1 F N
 F0 "P" -30 0 60 V V C CNN
-F1 "line_follower-cache:CONN_7" 70 0 60 V V C CNN
+F1 "line_follower-cache_CONN_7" 70 0 60 V V C CNN
 F2 "" 0 0 60 H V C CNN
 F3 "" 0 0 60 H V C CNN
 DRAW
@@ -155,11 +155,11 @@ X P7 7 -350 -300 250 R 50 50 1 1 P I
 ENDDRAW
 ENDDEF
 #
-# line_follower-cache:GND
+# line_follower-cache_GND
 #
-DEF line_follower-cache:GND #PWR 0 0 Y Y 1 F P
+DEF line_follower-cache_GND #PWR 0 0 Y Y 1 F P
 F0 "#PWR" 0 -250 50 H I C CNN
-F1 "line_follower-cache:GND" 0 -150 50 H V C CNN
+F1 "line_follower-cache_GND" 0 -150 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -168,11 +168,11 @@ X GND 1 0 0 0 D 50 50 1 1 W N
 ENDDRAW
 ENDDEF
 #
-# line_follower-cache:JUMPER
+# line_follower-cache_JUMPER
 #
-DEF line_follower-cache:JUMPER JP 0 30 Y N 1 F N
+DEF line_follower-cache_JUMPER JP 0 30 Y N 1 F N
 F0 "JP" 0 150 60 H V C CNN
-F1 "line_follower-cache:JUMPER" 0 -80 40 H V C CNN
+F1 "line_follower-cache_JUMPER" 0 -80 40 H V C CNN
 F2 "" 0 0 60 H V C CNN
 F3 "" 0 0 60 H V C CNN
 DRAW
@@ -184,11 +184,11 @@ X 2 2 300 0 165 L 60 60 0 1 P
 ENDDRAW
 ENDDEF
 #
-# line_follower-cache:LED
+# line_follower-cache_LED
 #
-DEF line_follower-cache:LED D 0 40 Y N 1 F N
+DEF line_follower-cache_LED D 0 40 Y N 1 F N
 F0 "D" 0 100 50 H V C CNN
-F1 "line_follower-cache:LED" 0 -100 50 H V C CNN
+F1 "line_follower-cache_LED" 0 -100 50 H V C CNN
 F2 "" 0 0 60 H V C CNN
 F3 "" 0 0 60 H V C CNN
 $FPLIST
@@ -210,11 +210,11 @@ X K 2 200 0 150 L 40 40 1 1 P
 ENDDRAW
 ENDDEF
 #
-# line_follower-cache:MP2307DN
+# line_follower-cache_MP2307DN
 #
-DEF line_follower-cache:MP2307DN U 0 40 Y Y 1 F N
+DEF line_follower-cache_MP2307DN U 0 40 Y Y 1 F N
 F0 "U" -200 -150 50 H V C CNN
-F1 "line_follower-cache:MP2307DN" 0 250 50 H V C CNN
+F1 "line_follower-cache_MP2307DN" 0 250 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -225,11 +225,11 @@ X VOUT 3 350 100 100 L 50 50 1 1 I
 ENDDRAW
 ENDDEF
 #
-# line_follower-cache:R
+# line_follower-cache_R
 #
-DEF line_follower-cache:R R 0 0 N Y 1 F N
+DEF line_follower-cache_R R 0 0 N Y 1 F N
 F0 "R" 80 0 40 V V C CNN
-F1 "line_follower-cache:R" 7 1 40 V V C CNN
+F1 "line_follower-cache_R" 7 1 40 V V C CNN
 F2 "" -70 0 30 V V C CNN
 F3 "" 0 0 30 H V C CNN
 $FPLIST
@@ -246,11 +246,11 @@ X ~ 2 0 -250 100 U 60 60 1 1 P
 ENDDRAW
 ENDDEF
 #
-# line_follower-cache:STM32F103C8T6
+# line_follower-cache_STM32F103C8T6
 #
-DEF line_follower-cache:STM32F103C8T6 U 0 40 Y Y 1 F N
+DEF line_follower-cache_STM32F103C8T6 U 0 40 Y Y 1 F N
 F0 "U" -500 1250 60 H V C CNN
-F1 "line_follower-cache:STM32F103C8T6" 200 1250 60 H V C CNN
+F1 "line_follower-cache_STM32F103C8T6" 200 1250 60 H V C CNN
 F2 "" 200 850 60 H V C CNN
 F3 "" 200 850 60 H V C CNN
 DRAW
@@ -298,11 +298,11 @@ X PA12 9 -700 250 150 R 50 50 1 1 I
 ENDDRAW
 ENDDEF
 #
-# line_follower-cache:SW_PUSH
+# line_follower-cache_SW_PUSH
 #
-DEF line_follower-cache:SW_PUSH SW 0 40 N N 1 F N
+DEF line_follower-cache_SW_PUSH SW 0 40 N N 1 F N
 F0 "SW" 150 110 50 H V C CNN
-F1 "line_follower-cache:SW_PUSH" 0 -80 50 H V C CNN
+F1 "line_follower-cache_SW_PUSH" 0 -80 50 H V C CNN
 F2 "" 0 0 60 H V C CNN
 F3 "" 0 0 60 H V C CNN
 DRAW
@@ -313,11 +313,11 @@ X 2 2 300 0 200 L 60 60 0 1 P I
 ENDDRAW
 ENDDEF
 #
-# line_follower-cache:TB6612FNG
+# line_follower-cache_TB6612FNG
 #
-DEF line_follower-cache:TB6612FNG U 0 40 Y Y 1 F N
+DEF line_follower-cache_TB6612FNG U 0 40 Y Y 1 F N
 F0 "U" -350 550 60 H V C CNN
-F1 "line_follower-cache:TB6612FNG" 150 550 60 H V C CNN
+F1 "line_follower-cache_TB6612FNG" 150 550 60 H V C CNN
 F2 "" -400 0 60 H V C CNN
 F3 "" -400 0 60 H V C CNN
 DRAW
@@ -341,11 +341,11 @@ X PWMA 9 550 350 150 L 50 50 1 1 I
 ENDDRAW
 ENDDEF
 #
-# line_follower-cache:U3V12F9
+# line_follower-cache_U3V12F9
 #
-DEF line_follower-cache:U3V12F9 U 0 40 Y Y 1 F N
+DEF line_follower-cache_U3V12F9 U 0 40 Y Y 1 F N
 F0 "U" 250 200 60 H V C CNN
-F1 "line_follower-cache:U3V12F9" 0 250 60 H V C CNN
+F1 "line_follower-cache_U3V12F9" 0 250 60 H V C CNN
 F2 "" -400 -300 60 H V C CNN
 F3 "" -400 -300 60 H V C CNN
 DRAW
