@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Escritorio)(type KiCad)(uri /home/pcounhago/Escritorio)(options "")(descr "")(disabled))
+  (lib (name buga_board_v2)(type KiCad)(uri ${KIPRJMOD}/buga_board_v2.pretty)(options "")(descr ""))
+)
