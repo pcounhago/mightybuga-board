@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name buga-board)(type Legacy)(uri /home/pcounhago/buga_board_v2/lib/buga-board.lib)(options "")(descr ""))
+  (lib (name tb6612fng)(type Legacy)(uri ${KIPRJMOD}/tb6612fng.lib)(options "")(descr ""))
+  (lib (name buga_board_v2-rescue)(type Legacy)(uri ${KIPRJMOD}/buga_board_v2-rescue.lib)(options "")(descr ""))
+)
